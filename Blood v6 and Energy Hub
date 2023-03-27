@@ -1,6 +1,7 @@
 --// The library of the ui.
 blood = loadstring(game:HttpGet("https://raw.githubusercontent.com/Drizzy23/blood_gui/main/Blood%20Modded%20Finity%20UI%20Library.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/Energy/main/Script/Loader.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/butter-hub/main/Butterhub.txt'))()
 
 _G.effectcolor = Color3.fromRGB(255,0,0)
 
